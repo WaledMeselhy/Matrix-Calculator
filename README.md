@@ -1,4 +1,4 @@
 # Matrix-Calculator
 
 **Objectives**
-Create a windows application that performs simple Matrix initialization and calculations
+Create a console application that performs simple Matrix initialization and calculations using **C**
