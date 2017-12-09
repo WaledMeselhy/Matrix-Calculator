@@ -1,0 +1,15 @@
+﻿  MatrixCalculator.cpp
+c:\users\walee\documents\visual studio 2017\projects\matrixcalculator\matrixcalculator\matrixcalculator.cpp(251): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\walee\documents\visual studio 2017\projects\matrixcalculator\matrixcalculator\matrixcalculator.cpp(359): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: see declaration of 'strcpy'
+c:\users\walee\documents\visual studio 2017\projects\matrixcalculator\matrixcalculator\matrixcalculator.cpp(489): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\walee\documents\visual studio 2017\projects\matrixcalculator\matrixcalculator\matrixcalculator.cpp(490): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: see declaration of 'strcpy'
+c:\users\walee\documents\visual studio 2017\projects\matrixcalculator\matrixcalculator\matrixcalculator.cpp(593): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: see declaration of 'strcpy'
+c:\users\walee\documents\visual studio 2017\projects\matrixcalculator\matrixcalculator\matrixcalculator.cpp(602): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: see declaration of 'strcpy'
+c:\users\walee\documents\visual studio 2017\projects\matrixcalculator\matrixcalculator\matrixcalculator.cpp(74): warning C4715: 'per': not all control paths return a value
+c:\users\walee\documents\visual studio 2017\projects\matrixcalculator\matrixcalculator\matrixcalculator.cpp(84): warning C4715: 'abdalih': not all control paths return a value
+  MatrixCalculator.vcxproj -> c:\users\walee\documents\visual studio 2017\Projects\MatrixCalculator\Debug\MatrixCalculator.exe
+  MatrixCalculator.vcxproj -> c:\users\walee\documents\visual studio 2017\Projects\MatrixCalculator\Debug\MatrixCalculator.pdb (Partial PDB)
